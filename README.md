@@ -1,6 +1,4 @@
-Perfect! Here's the **full README.md in pure Markdown**, ready to paste into your repo:
 
-```markdown
 # 📚 Bookstore Project  
 A Full-Stack MERN (MongoDB • Express • React • Node.js) Web Application
 
